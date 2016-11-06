@@ -92,6 +92,29 @@
 ###[Project Tango 知识原理](https://www.zhihu.com/question/37920173)
 ###[Google Tango 项目](http://www.arjiang.com/index.php?m=content&c=index&a=show&catid=11&id=308)
  
+
+***
+#AR 技术文章
+###[两家AR专利大厂在AR硬件方面的探索](http://www.arjiang.com/index.php?m=content&c=index&a=show&catid=11&id=344)
+###[增强现实技术及其应用](http://www.doc88.com/p-5661286681360.html)
+###[全球首份VR/AR医疗健康产业应用创新报告](http://www.vrguancha.net/a/start/baogaoku/2016/1102/2026.html)
+
+***
+#AR 精选论文
+###[基于ARM和OpenCV的增强现实平台研究](http://www.docin.com/p-62167994.html)
+###[基于Android的增强现实技术研究与实现](http://www.docin.com/p-890798256.html)
+###[增强现实应用技术研究](http://www.docin.com/p-123294670.html)
+###[基于ARTOOLKIT的增强现实技术在恐龙博物馆中的应用研究](http://www.docin.com/p-220443601.html)
+###[基于增强现实技术的虚拟留言墙系统的设计与实现](http://www.docin.com/p-983104432.html)
+###[基于智能移动终端的移动增强现实应用研究与实现 ](http://www.docin.com/p-880664177.html)
+###[基于unity3d的移动增强现实技术与应用研究分析](http://www.docin.com/p-1404596806.html)
+###[增强现实中标记设计与识别方法研究](http://www.docin.com/p-129257030.html)
+###[户外增强现实gis的应用研究](http://www.docin.com/p-1124496600.html)
+###[手持式增强现实神经导航关键技术研究及其系统建立](http://www.docin.com/p-1701043105.html)
+###[基于ARToolKit平台的增强现实人机交互系统的若干问题研究](http://www.docin.com/p-118637060.html)
+###[基于ARToolkit的汉字识别系统的设计与实现](http://www.docin.com/p-427198314.html)
+###[基于ARToolKit的增强现实技术在恐龙博物馆中的应用研究](http://www.docin.com/p-1609057674.html)
+
 ***
 #AR应用精选
 ###[视+AR](http://www.anzhi.com/soft_2519240.html)－－搭载独立开发的EasyAR引擎，全新视+2.0强势来袭！包罗丰富ar内容的增强现实浏览器，等你来体验！
