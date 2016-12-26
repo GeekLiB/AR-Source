@@ -42,6 +42,7 @@
 ###[AR 酱](http://arjiang.com/)－－AR酱:用调侃犀利的方式普及AR技术
 ###[AR 中国](http://www.archina.org/)－－AR中国是专注于增强现实技术的新闻门户网站
 ###[AR 技术网](http://www.arjishu.com/)
+###[Realseer](http://www.arcompetition.com/Default.aspx)
 ***
 #增强现实视频合辑
 ###[增强现实技术1-31篇技术视频教程合集](http://www.arcun.cn/thread-2111-1-1.html)
