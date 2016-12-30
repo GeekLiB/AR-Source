@@ -39,7 +39,6 @@
 ###[AR 村](http://www.arcun.cn/)－－提供最新最快的AR增强现实信息,最权威的AR增强现实解读与产品发布.
 ###[柚子AR](http://www.youziar.com/)－－柚子AR打造专业的增强现实技术领域门户网站,提供AR资讯、AR技术、AR视频、AR游戏、AR设备等相关知识教程,柚子AR,打造增强现实行业交流聚集地。
 ###[ChinaAR](http://www.chinaar.com/)－－中国AR网,是国内第一家打造增强现实技术交流的一个自媒体平台!意在打造中国AR爱好者对AR技术的交流与学习的一个平台
-###[AR 酱](http://arjiang.com/)－－AR酱:用调侃犀利的方式普及AR技术
 ###[AR 中国](http://www.archina.org/)－－AR中国是专注于增强现实技术的新闻门户网站
 ###[AR 技术网](http://www.arjishu.com/)
 ###[Realseer](http://www.arcompetition.com/Default.aspx)
