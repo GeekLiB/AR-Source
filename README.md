@@ -62,6 +62,9 @@
 ***
 
 #EasyAR教程精选
+###[Leap Motion+EasyAR AR手势开发教程](http://www.manew.com/thread-98569-1-1.html)
+###[AR从入门到精通开发系列教程(1)---搭建开发环境](http://www.manew.com/thread-98708-1-1.html)
+###[AR从入门到精通开发系列教程(2)--创建模型并互动](http://www.manew.com/thread-98992-1-1.html)
 ###[EasyAR 公开课](http://www.arinchina.com/video/list/151/)
 ###[EasyAR 文档](http://www.easyar.cn/view/documentapi.html)
 ###[EasyAR官方Sample之涂涂乐](http://bbs.sightp.com/thread-249-1-1.html)
