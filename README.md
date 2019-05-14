@@ -386,7 +386,7 @@
 ### [Hololens](https://www.microsoft.com/en-us/hololens)---Microsoft HoloLens 是微软首个不受线缆限制的全息计算机设备，能让用户与数字内容交互，并与周围真实环境中的全息影像互动。
 ### [Magic Leap One](https://www.magicleap.com/)---Magic Leap One是Magic Leap推出的一款增强现实眼镜，支持语音、手势、头部移动和眼球控制多种方式
 ### [META](https://www.metavision.com/)
-### [Project North Star](https://developer.leapmotion.com/northstar)---
+### [Project North Star](https://developer.leapmotion.com/northstar)
 ### [Vuzix](https://www.vuzix.com/)---Vuzix，是美国一家智能眼镜创业公司，推出了Blade、M300XL、M300三款AR眼镜
 ### [North Focals](https://www.bynorth.com/)---North（以前称为Thalmic Labs）推出旗下首款智能眼镜Focals。乍一看，Focals是一副普通的眼镜，有点类似于intel Vaunt， 数字界面设计为漂浮在右眼前方，Focals在右眼镜框架内集成了处理SoC和激光投影仪将信息发送到您视线中的小圆形贴片上
 ### [Snap Spectacles ](https://www.spectacles.com/)---Snap推出了新一代智能眼镜——Spectacles 2，这款智能眼镜能够拍摄照片、录制视频，并支持了防水功能，可以在较浅的水域中拍摄。
