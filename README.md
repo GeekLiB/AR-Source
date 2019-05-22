@@ -36,6 +36,7 @@
 ### [Kudan](https://www.kudan.io/)
 ### [Onirix](https://www.onirix.com/)---onrix是一个增强的现实平台，它允许创意人员和开发人员在移动应用程序上创建和发布自己的AR内容
 ### [MaxST](http://maxst.com/#/en)
+### [Crunchfish](https://www.crunchfish.com/)---提供AR手势交互方案
 ***
 
 # ARKit 教程
@@ -372,6 +373,7 @@
 ### [87870](http://www.87870.com/)---AR·VR·MR产业价值聚合平台
 ### [Next Reality](https://next.reality.news/)
 ### [VRSCOUT](https://vrscout.com/)
+### [VRFocus](https://www.vrfocus.com/)
 ### [AfterNow](https://www.afternow.io/)
 ### [ARinChina](http://www.arinchina.com/)－－增强现实中国ARinChina 是中国最大的专注于AR增强现实技术行业的门户网站。
 ### [AR 学院](http://www.arvrschool.com/)－－增强现实|虚拟现实技术交流社区、综合门户
