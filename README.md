@@ -234,6 +234,7 @@
 #### [Vuforia精选专题教程1](https://www.youtube.com/watch?v=XoyGP-1pXko&list=PLAB1AiCfff7foWIgYsXK3iI6bYHbfnVOs)
 #### [Vuforia精选专题教程2](https://www.youtube.com/watch?v=zpiFZtPxo2w&list=PLb1h4A0yB97_TeFuf9TAEah3b-VyIYzF9)
 #### [Vuforia精选专题教程3](https://www.youtube.com/channel/UCBVWZH7ZrnegbWiK9pY5V-A/search?query=tutorial)
+#### [Creating AR Content with Vuforia](https://www.youtube.com/watch?v=9XikHnTiukk&list=PLX2vGYjWbI0Thl0pOCbKWrbbiw7RWiRG7&index=1)
 #### [Augmented Reality Tutorial: Vuforia 7 Ground Plane Detection SLAM](https://www.youtube.com/watch?v=0O6VxnNRFyg)
 #### [How to create an Augmented Reality App](https://www.youtube.com/watch?v=MtiUx_szKbI)
 #### [Using Vuforia For HoloLens Static Room Calibration In Unity (Tutorial)](https://www.youtube.com/watch?v=W7z2sggDGoo)
