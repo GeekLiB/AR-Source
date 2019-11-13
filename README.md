@@ -7,6 +7,7 @@
 
 ## By AR Portal（AR开发者社区）[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 #### AR开发者群：605785368
+#### AR开发交流：891555732
 #### 微信公众号：AR开发者社区
 ![AR Portal](https://upload-images.jianshu.io/upload_images/3016913-0d7f06621db6fc4c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 'AR-Portal')
 ***
