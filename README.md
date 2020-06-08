@@ -6,8 +6,7 @@
 </p>
 
 ## By AIRX（国内领先的AI、AR、VR技术学习与交流平台）[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-#### AR开发者群：605785368
-#### AR开发交流：891555732
+#### 添加微信入群：AIRX001
 #### 微信公众号：AIRX社区
 ![AR Portal](https://upload-images.jianshu.io/upload_images/3016913-84f68a8f50c12685.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 'AIRX')
 ***
