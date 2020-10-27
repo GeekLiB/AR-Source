@@ -1,8 +1,9 @@
 ![](https://upload-images.jianshu.io/upload_images/3016913-60b125e27fc7840c.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-## By AIRX（国内领先的AI、AR、VR技术学习与交流平台）[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## By AIRX（国内领先的ARVR、Unity、Unreal、CV、AI开发者学习服务与交流平台）[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 #### 添加微信入群：AIRX001
 #### 微信公众号：AIRX社区
 ![AR Portal](https://upload-images.jianshu.io/upload_images/3016913-b5570a81f1224c67.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 'AIRX')
+
 ![](https://upload-images.jianshu.io/upload_images/3016913-5a72c71a37c1fad0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
 # AR platform
