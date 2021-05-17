@@ -2,6 +2,7 @@
 ## By 三次方（三次方•目前国内最大的泛AR/VR学习在线教育平台）[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 #### 添加微信入群：AIRX001
 #### 微信公众号：三次方AIRX
+#### [高质量强干货AR／VR知识社群，限量加入](https://mp.weixin.qq.com/s?__biz=Mzg2ODUzMzEzMg==&mid=2247493042&idx=6&sn=4212bf26fc90d53a1e6ff06050543f8d&chksm=cea87351f9dffa4771d55b8bb26ba0cc2cac81ed16205dcc91940fa095e8e73281c77895dbec&token=2073608675&lang=zh_CN#rd)
 ![三次方](https://upload-images.jianshu.io/upload_images/25453958-4c94d732ba430b08.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 'AIRX')
 
 ***
