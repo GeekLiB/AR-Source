@@ -1,5 +1,5 @@
-![](https://upload-images.jianshu.io/upload_images/25453958-a09b626a3467c4cc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-## By 三次方（三次方•数字化人才在线教育平台）[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![](https://upload-images.jianshu.io/upload_images/3016913-902d8bdd204cc954.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+## By 三次方（三次方•目前国内最大的泛AR/VR学习在线教育平台）[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 #### 添加微信入群：AIRX001
 #### 微信公众号：三次方AIRX
 ![三次方](https://upload-images.jianshu.io/upload_images/25453958-4c94d732ba430b08.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 'AIRX')
