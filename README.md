@@ -1,8 +1,10 @@
-## By 三次方（三次方•3D互联网产业服务平台）[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## By 三次方（三次方•驶向互联网下一站）[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 #### 添加微信入群：AIRX001
 #### 微信公众号：三次方AIRX
 
-三次方是面向3D互联网的科技媒体和产业服务平台（AR、VR、元宇宙、虚拟人、数字孪生方向），发掘虚拟世界商业应用，关注元宇宙企业发展和赋能技术升级案例，致力于推动AR、VR、元宇宙、虚拟人等科技创新在产业之中的落地与应用。包含社群、培训、媒体、企服等业务！
+补充更新整理了一个《苹果Vision Pro一点通》包含空间计算/元宇宙，积累了笔记、案例、工具、代码、产品、创意库、视频等内容方向：
+
+https://a2ba6xsetg.feishu.cn/wiki/space/7322714408256454657?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home
 
 ***
 # AR platform
